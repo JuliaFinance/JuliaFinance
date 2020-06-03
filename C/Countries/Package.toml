@@ -1,0 +1,3 @@
+name = "Countries"
+uuid = "82bc9f9d-56a2-5453-b677-633a29649040"
+repo = "https://github.com/JuliaFinance/Countries.jl.git"
