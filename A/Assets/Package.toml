@@ -1,0 +1,3 @@
+name = "Assets"
+uuid = "821ac057-2368-47e2-a1d8-2c0798f0e233"
+repo = "https://github.com/JuliaFinance/Assets.jl.git"
