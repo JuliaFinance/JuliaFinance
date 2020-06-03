@@ -3,3 +3,4 @@ uuid = "7d042fc3-9bdf-43ac-9fb5-8871994236a4"
 repo = "https://github.com/JuliaFinance/JuliaFinance.git"
 
 [packages]
+2a4f3d17-849a-48a1-809e-d780c70a95a0 = { name = "Instruments", path = "I/Instruments" }

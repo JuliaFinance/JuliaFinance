@@ -1,0 +1,3 @@
+name = "Instruments"
+uuid = "2a4f3d17-849a-48a1-809e-d780c70a95a0"
+repo = "https://github.com/JuliaFinance/Instruments.jl.git"
