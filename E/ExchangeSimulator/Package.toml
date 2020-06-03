@@ -1,0 +1,3 @@
+name = "ExchangeSimulator"
+uuid = "02269835-e461-4a61-8184-47cf08ae6cfc"
+repo = "https://github.com/JuliaFinance/ExchangeSimulator.jl.git"
