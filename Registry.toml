@@ -1,0 +1,5 @@
+name = "JuliaFinance"
+uuid = "7d042fc3-9bdf-43ac-9fb5-8871994236a4"
+repo = "https://github.com/JuliaFinance/JuliaFinance.git"
+
+[packages]
