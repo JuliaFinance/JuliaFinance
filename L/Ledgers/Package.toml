@@ -1,0 +1,3 @@
+name = "Ledgers"
+uuid = "adab416e-2b84-11e9-2fd1-b5546e90182a"
+repo = "https://github.com/JuliaFinance/Ledgers.jl.git"
