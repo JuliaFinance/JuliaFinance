@@ -1,3 +1,7 @@
-["0.7-0"]
+["0.7"]
 Currencies = "0.17"
 Instruments = "0.6"
+
+["0.8-0"]
+Currencies = "0.17.0-*"
+Instruments = "0.7.0-*"
