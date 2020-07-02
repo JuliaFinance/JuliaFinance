@@ -1,5 +1,11 @@
 [0]
 AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
 Assets = "821ac057-2368-47e2-a1d8-2c0798f0e233"
-DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
 Instruments = "2a4f3d17-849a-48a1-809e-d780c70a95a0"
+
+["0-0.2"]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+
+["0.3-0"]
+StructArrays = "09ab397b-f2b6-538f-b94a-2f83cf4a842a"
+UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
