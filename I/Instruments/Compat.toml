@@ -7,5 +7,8 @@ Currencies = "0.16"
 ["0.6"]
 Currencies = "0.17"
 
-["0.7-0"]
+["0.7-0.8"]
 Currencies = "0.17.0-*"
+
+["0.9-0"]
+Currencies = "0.18"
