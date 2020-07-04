@@ -4,6 +4,7 @@ repo = "https://github.com/JuliaFinance/JuliaFinance.git"
 
 [packages]
 02269835-e461-4a61-8184-47cf08ae6cfc = { name = "ExchangeSimulator", path = "E/ExchangeSimulator" }
+0fd90b74-7c1f-579e-9252-02cd883047b9 = { name = "Currencies", path = "C/Currencies" }
 2a4f3d17-849a-48a1-809e-d780c70a95a0 = { name = "Instruments", path = "I/Instruments" }
 821ac057-2368-47e2-a1d8-2c0798f0e233 = { name = "Assets", path = "A/Assets" }
 82bc9f9d-56a2-5453-b677-633a29649040 = { name = "Countries", path = "C/Countries" }
