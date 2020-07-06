@@ -2,7 +2,9 @@
 Assets = "0.9.0-*"
 Instruments = "0.8.0-*"
 
-["0.4-0"]
-Assets = "0.10"
+["0.4"]
 Currencies = "0.18"
 Instruments = "0.9"
+
+["0.4-0"]
+Assets = "0.10"
